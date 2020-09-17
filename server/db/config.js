@@ -12,9 +12,9 @@ let dbOption
 
 dbOption = {
   connectionLimit: 10,
-  host: '39.96.88.23',
+  host: '49.233.3.220',
   user: 'root',
-  password: 'root',
+  password: 'white.123456',
   port: '3306',
   database: 'blog'
 }

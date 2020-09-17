@@ -13,3 +13,12 @@
 2020-09-12 22:31:28: [0mGET /api/article/getArticleList [33m404 [0m1.528 ms - 160[0m
 2020-09-12 22:31:29: [0mGET /stylesheets/style.css [36m304 [0m2.263 ms - -[0m
 2020-09-12 22:31:29: [0mGET /favicon.ico [33m401 [0m0.806 ms - 36[0m
+2020-09-17 20:04:00: [0mGET /api/article/getArticleList [33m404 [0m1869.047 ms - 160[0m
+2020-09-17 20:04:00: [0mGET /stylesheets/style.css [32m200 [0m15.281 ms - 111[0m
+2020-09-17 20:04:00: [0mGET /favicon.ico [33m401 [0m1.804 ms - 36[0m
+2020-09-17 20:04:34: [0mGET /api/user/info [33m401 [0m4.079 ms - 36[0m
+2020-09-17 20:04:34: [0mPOST /api/article/getArticleList [32m200 [0m84.911 ms - 3023[0m
+2020-09-17 20:04:41: [0mGET /api/user/info [33m401 [0m135.856 ms - 36[0m
+2020-09-17 20:04:41: [0mPOST /api/article/getBlogDetail [32m200 [0m166.289 ms - 1641[0m
+2020-09-17 20:04:41: [0mPOST /api/comment/getCommentsList [32m200 [0m55.332 ms - 354[0m
+2020-09-17 20:04:41: [0mGET /uploads/20200911/1599833626030.jpeg [36m304 [0m3.401 ms - -[0m
